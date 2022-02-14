@@ -1,0 +1,129 @@
+/*
+Theme Name: TEMA FAUZAN
+Theme URI:  http://wordpress.org/
+Author: Fauzan Alghifari
+Author URI: http://wordpress.org/
+Description: tema untuk kalian
+*/
+body {
+    margin: 50px auto;
+    width: 80%;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+h1 a {
+    background-color: black;
+    padding: 5px;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h2 {
+    margin-top: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+nav ul {
+    padding-left: 0px;
+}
+
+nav li{
+    display: inline-block;
+}
+
+header nav li {
+    font-size: 22px;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+footer nav li {
+    font-size: 22px;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+header {
+    border-bottom: 2px solid black;
+}
+
+header nav {
+    float: left;
+    width: 70%;
+}
+
+.sub_judul{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+main, aside {
+    float: left;
+    margin-top: 30px;
+}
+
+main {
+    width: 75%;
+    margin-right: 5%;
+}
+
+aside {
+    width: 20%;
+}
+
+.sub_judul {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+header nav {
+    float:left;
+    width: 70%;
+}
+
+#search_form {
+    float: right;
+    margin-top: 20px;
+}
+
+.clear {
+    clear: both;
+}
+
+#main-page {
+    text-align: center;
+}
+
+.gallery {
+    background-color: #ffa979;
+    padding: 10px;
+}
+
+#custom_post h1 {
+    font-size: 30px;
+}
+
+#custom_post a {
+    display: inline-block;
+    width: 50%;
+    margin: 2%;
+    background-color: #ff0752;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+
+
+footer {
+    border-top: 2px solid black;
+}
